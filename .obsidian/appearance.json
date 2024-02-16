@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "translucency": false,
+  "textFontFamily": "Nunito",
+  "enabledCssSnippets": [
+    "size-for-content"
+  ]
+}

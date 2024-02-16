@@ -1,0 +1,16 @@
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #BB29BB !important;
+}
+
+
+/* Different color for italic */
+.cm-em {
+    color: #cc241d;
+}
+
+/* of italics in Preview  all notes in a vault */
+.markdown-preview-section em {
+    color: #cc241d !important;
+}
