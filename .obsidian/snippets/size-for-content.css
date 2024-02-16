@@ -1,9 +1,28 @@
-/* Different color for bold*/
+body {
+
+  --file-line-width: 50vw;
+  
+}
+
+.HyperMD-header.HyperMD-header-1 {
+  padding-bottom: 2px;
+  border-bottom: 1.8px solid lightgray;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h1 {
+  padding-bottom: 2px;
+  border-bottom: 1.8px solid lightgray;
+}
+
 .cm-strong,
 .markdown-preview-section strong {
   color: #BB29BB !important;
 }
-
+.callout-content strong{
+  color:#000 !important;
+}
 
 /* Different color for italic */
 .cm-em {
@@ -14,3 +33,8 @@
 .markdown-preview-section em {
     color: #cc241d !important;
 }
+
+.inline-title {
+  text-align: center;
+}
+

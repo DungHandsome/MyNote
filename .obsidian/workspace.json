@@ -65,14 +65,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "f307047b6e458b2f",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -157,8 +149,9 @@
   },
   "active": "cd3ccb1403ca0016",
   "lastOpenFiles": [
-    "size-for-content.css",
     "Study/English/1. Special structure.md",
+    "Untitled.md",
+    "size-for-content.css",
     "Spaces/Home",
     "Spaces",
     "Study/English",
