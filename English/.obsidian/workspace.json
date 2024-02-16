@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/English/1. Special structure.md",
+                "file": "1. Special structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/English/1. Special structure.md",
+                "file": "1. Special structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/English/1. Special structure.md",
+                "file": "1. Special structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/English/1. Special structure.md"
+                "file": "1. Special structure.md"
               }
             }
           }
@@ -147,9 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd3ccb1403ca0016",
+  "active": "731c88a519f300f3",
   "lastOpenFiles": [
-    "Study/English/1. Special structure.md",
+    "1. Special structure.md",
+    "English/Study/English/1. Special structure.md",
+    "English/Study/English",
+    "English/Study",
+    "English",
+    "untitled folder",
     "Untitled.md",
     "size-for-content.css",
     "Spaces/Home",
