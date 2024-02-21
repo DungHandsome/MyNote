@@ -5,5 +5,6 @@
   "textFontFamily": "Nunito",
   "enabledCssSnippets": [
     "size-for-content"
-  ]
+  ],
+  "cssTheme": ""
 }

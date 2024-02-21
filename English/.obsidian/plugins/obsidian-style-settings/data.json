@@ -1,0 +1,10 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anp-callout-select": "none",
+  "anuppuccin-theme-settings@@anp-list-toggle": true,
+  "anuppuccin-theme-settings@@anp-editor-font-lp": "Nunito",
+  "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-red",
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sky"
+}
