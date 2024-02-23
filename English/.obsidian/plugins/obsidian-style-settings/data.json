@@ -6,5 +6,7 @@
   "anuppuccin-theme-settings@@anp-list-toggle": true,
   "anuppuccin-theme-settings@@anp-editor-font-lp": "Nunito",
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-red",
-  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sky"
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sky",
+  "things-style@@strong-color": "#FF82B2",
+  "things-style@@em-color": "#F55454"
 }
