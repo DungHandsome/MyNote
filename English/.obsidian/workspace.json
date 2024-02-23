@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Special prepositions.md",
+                "file": "2. Special phrases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Special structure.md",
+                "file": "2. Special phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Special structure.md",
+                "file": "2. Special phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Special structure.md"
+                "file": "2. Special phrases.md"
               }
             }
           },
@@ -169,11 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1de844a49c408b04",
+  "active": "fda1c7e7c0bb8c13",
   "lastOpenFiles": [
-    "3. Special prepositions.md",
-    "2. Special phrases.md",
     "1. Special structure.md",
+    "2. Special phrases.md",
+    "1. Special structure.pdf",
+    "3. Special prepositions.md",
     "English/Study/English/1. Special structure.md",
     "English/Study/English",
     "English/Study",
@@ -185,7 +187,6 @@
     "Study/English",
     "Study",
     "English/Untitled.md",
-    "Study/English",
     "Untitled.canvas",
     "Welcome.md",
     "create a link.md"
