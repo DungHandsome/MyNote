@@ -8,5 +8,7 @@
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-red",
   "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-sky",
   "things-style@@strong-color": "#FF82B2",
-  "things-style@@em-color": "#F55454"
+  "things-style@@em-color": "#F55454",
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default"
 }
