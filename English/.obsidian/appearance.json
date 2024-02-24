@@ -4,7 +4,8 @@
   "translucency": false,
   "textFontFamily": "Nunito",
   "enabledCssSnippets": [
-    "print"
+    "print",
+    "size-for-content"
   ],
-  "cssTheme": "Things"
+  "cssTheme": ""
 }
