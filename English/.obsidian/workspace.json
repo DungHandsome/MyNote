@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Special phrases.md",
+                "file": "1. Special structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Special phrases.md",
+                "file": "1. Special structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Special phrases.md",
+                "file": "1. Special structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Special phrases.md"
+                "file": "1. Special structure.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "33a2974d39d044d5",
   "lastOpenFiles": [
-    "1. Special structure.md",
-    "4. Confused structure.md",
     "2. Special phrases.md",
     "3. Special prepositions.md",
+    "4. Confused structure.md",
+    "1. Special structure.md",
     "1. Special structure.pdf",
     "English/Study/English/1. Special structure.md",
     "English/Study/English",
